@@ -10,10 +10,8 @@ inicio
 ### testing
 
 ### resources
-https://www.youtube.com/watch?v=SVrhxDpl2Ic
-https://www.youtube.com/watch?v=_YV5c9ZR4TE&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=3
-
-
+- Following and based on: [Design Patterns em Python - Observer](https://www.youtube.com/watch?v=SVrhxDpl2Ic)
+- Theory: [Padrões de Projeto - Design Patterns (GoF)](https://www.youtube.com/playlist?list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H)
 
 
 
